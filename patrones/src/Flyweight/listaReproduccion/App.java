@@ -18,8 +18,6 @@ public class App {
 
     static public void main(String[] args) {
 
-
-
         ListaReproduccion romanticas = new ListaReproduccion("romanticas");
         ListaReproduccion rock = new ListaReproduccion("Rock");
 

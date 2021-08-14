@@ -3,7 +3,7 @@ package Flyweight.listaReproduccion.cancion;
 import java.util.HashMap;
 
 public class CancionFactory {
-    private HashMap<String, Cancion> canciones = new HashMap();
+    private static final HashMap<String, Cancion> canciones = new HashMap();
     private static CancionFactory instance;
 
     private CancionFactory() { }

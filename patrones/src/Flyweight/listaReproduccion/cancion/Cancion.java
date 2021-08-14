@@ -12,13 +12,6 @@ public class Cancion {
     }
 
     // getters y setters
-    protected String getNombre() {
-        return nombre;
-    }
-
-    protected void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
 
     protected String getArtista() {
         return artista;
