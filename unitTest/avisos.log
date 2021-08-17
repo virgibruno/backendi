@@ -17,3 +17,6 @@ java.lang.ArithmeticException: / by zero
 	at logger.Test.main(Test.java:12)
 [2021-08-017 11:48_01] [ INFO ] [Test:28] empezamos la division: 2 / 3
 [2021-08-017 11:48_01] [ DEBUG] [Test:36] Terminamos de dividir
+[2021-08-017 12:07_30] [ INFO ] [Main:19] Simba está corriendo
+[2021-08-017 12:07_30] [ INFO ] [Main:12] nala es mayor a 10 años
+[2021-08-017 12:07_30] [ INFO ] [Main:14] mufasa es mayor a 10 años y es el alfa.
