@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../apache-log4j-1.2.17/apache-log4j-1.2.17.iml" filepath="$PROJECT_DIR$/../../../apache-log4j-1.2.17/apache-log4j-1.2.17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../apache-log4j-1.2.17/contribs/contribs.iml" filepath="$PROJECT_DIR$/../../../apache-log4j-1.2.17/contribs/contribs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../apache-log4j-1.2.17/src/main/main.iml" filepath="$PROJECT_DIR$/../../../apache-log4j-1.2.17/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../apache-log4j-1.2.17/src/performance/performance.iml" filepath="$PROJECT_DIR$/../../../apache-log4j-1.2.17/src/performance/performance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../apache-log4j-1.2.17/site/site.iml" filepath="$PROJECT_DIR$/../../../apache-log4j-1.2.17/site/site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../apache-log4j-1.2.17/tests/tests.iml" filepath="$PROJECT_DIR$/../../../apache-log4j-1.2.17/tests/tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/unitTest.iml" filepath="$PROJECT_DIR$/unitTest.iml" />
     </modules>
   </component>

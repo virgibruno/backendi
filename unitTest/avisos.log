@@ -1,0 +1,19 @@
+[2021-08-017 11:41_39] [ INFO ] [Test:15] sa
+[2021-08-017 11:45_49] [ INFO ] [Test:28] empezamos la division: 2 / 0
+[2021-08-017 11:45_49] [ ERROR] [Test:33] OCURRIO UN ERROR AL INTENTAR DIVIDIR: 
+java.lang.ArithmeticException: / by zero
+	at logger.Calculadora.dividir(Calculadora.java:31)
+	at logger.Test.main(Test.java:12)
+[2021-08-017 11:47_27] [ INFO ] [Test:28] empezamos la division: 2 / 0
+[2021-08-017 11:47_27] [ ERROR] [Test:33] OCURRIO UN ERROR AL INTENTAR DIVIDIR: 
+java.lang.ArithmeticException: / by zero
+	at logger.Calculadora.dividir(Calculadora.java:31)
+	at logger.Test.main(Test.java:12)
+[2021-08-017 11:47_27] [ INFO ] [Test:28] empezamos la division: 2 / 3
+[2021-08-017 11:48_01] [ INFO ] [Test:28] empezamos la division: 2 / 0
+[2021-08-017 11:48_01] [ ERROR] [Test:33] OCURRIO UN ERROR AL INTENTAR DIVIDIR: 
+java.lang.ArithmeticException: / by zero
+	at logger.Calculadora.dividir(Calculadora.java:31)
+	at logger.Test.main(Test.java:12)
+[2021-08-017 11:48_01] [ INFO ] [Test:28] empezamos la division: 2 / 3
+[2021-08-017 11:48_01] [ DEBUG] [Test:36] Terminamos de dividir
