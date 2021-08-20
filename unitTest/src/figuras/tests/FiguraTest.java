@@ -30,3 +30,4 @@ public class FiguraTest {
         assertEquals(8.0, figura4.calcularPerimetro());
     }
 }
+

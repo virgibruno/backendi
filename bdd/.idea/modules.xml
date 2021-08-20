@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/H2/src/H2.iml" filepath="$USER_HOME$/H2/src/H2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdd.iml" filepath="$PROJECT_DIR$/bdd.iml" />
+      <module fileurl="file://$USER_HOME$/H2/src/java10/java10.iml" filepath="$USER_HOME$/H2/src/java10/java10.iml" />
+      <module fileurl="file://$USER_HOME$/H2/src/java8/java8.iml" filepath="$USER_HOME$/H2/src/java8/java8.iml" />
+      <module fileurl="file://$USER_HOME$/H2/src/java9/java9.iml" filepath="$USER_HOME$/H2/src/java9/java9.iml" />
+    </modules>
+  </component>
+</project>

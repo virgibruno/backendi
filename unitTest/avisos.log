@@ -20,3 +20,33 @@ java.lang.ArithmeticException: / by zero
 [2021-08-017 12:07_30] [ INFO ] [Main:19] Simba está corriendo
 [2021-08-017 12:07_30] [ INFO ] [Main:12] nala es mayor a 10 años
 [2021-08-017 12:07_30] [ INFO ] [Main:14] mufasa es mayor a 10 años y es el alfa.
+[2021-08-018 14:35_40] [ ERROR] [App:33] La lista es igual a cero
+[2021-08-018 14:35_40] [ INFO ] [App:39] Pormedio: 1
+[2021-08-018 14:35_40] [ INFO ] [App:39] Pormedio: 1
+[2021-08-018 14:35_40] [ INFO ] [App:39] Pormedio: 1
+[2021-08-018 14:35_40] [ INFO ] [App:39] Pormedio: 1
+[2021-08-018 14:35_40] [ INFO ] [App:23] La lista tiene ahora 5 elementos
+[2021-08-018 14:35_40] [ INFO ] [App:39] Pormedio: 1
+[2021-08-018 14:35_40] [ INFO ] [App:39] Pormedio: 1
+[2021-08-018 14:35_40] [ INFO ] [App:39] Pormedio: 1
+[2021-08-018 14:35_40] [ INFO ] [App:39] Pormedio: 1
+[2021-08-018 14:35_40] [ INFO ] [App:39] Pormedio: 1
+[2021-08-018 14:35_40] [ INFO ] [App:26] La lista tiene ahora 10 elementos
+[2021-08-018 14:35_40] [ INFO ] [App:39] Pormedio: 1
+[2021-08-018 14:35_40] [ INFO ] [App:39] Pormedio: 1
+[2021-08-018 15:01_14] [ ERROR] [App:33] La lista es igual a cero
+[2021-08-018 15:01_14] [ INFO ] [App:39] Promedio: 1
+[2021-08-018 15:01_14] [ INFO ] [App:39] Promedio: 2
+[2021-08-018 15:01_14] [ INFO ] [App:39] Promedio: 3
+[2021-08-018 15:01_14] [ INFO ] [App:39] Promedio: 4
+[2021-08-018 15:01_14] [ INFO ] [App:23] La lista tiene ahora 5 elementos
+[2021-08-018 15:01_14] [ INFO ] [App:39] Promedio: 3
+[2021-08-018 15:01_14] [ INFO ] [App:39] Promedio: 3
+[2021-08-018 15:01_14] [ INFO ] [App:39] Promedio: 3
+[2021-08-018 15:01_14] [ INFO ] [App:39] Promedio: 3
+[2021-08-018 15:01_14] [ INFO ] [App:39] Promedio: 2
+[2021-08-018 15:01_14] [ INFO ] [App:26] La lista tiene ahora 10 elementos
+[2021-08-018 15:01_14] [ INFO ] [App:39] Promedio: 3
+[2021-08-018 15:01_14] [ INFO ] [App:39] Promedio: 3
+[2021-08-018 15:01_14] [ INFO ] [App:67] Maximo: 8
+[2021-08-018 15:01_14] [ INFO ] [App:54] Minimo: 1
