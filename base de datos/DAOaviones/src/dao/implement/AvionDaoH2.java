@@ -18,7 +18,7 @@ public class AvionDaoH2 implements IDao<Avion> {
     @Override
     public Avion registrarNuevo(Avion avion) {
         Connection connection = configurationJdbc.conectarConDB();
-        String query = String.format("INSERT INTO aviones(MARCA, MATRICULA, FECHA_INICIO) VALUES('%s', '%s', '%s')", avion.getMarca(), avion.getMatricula(), String.valueOf(avion.getFechaEntradaServicio()) );
+        String query = String.format("INSERT INTO aviones(MARCA, MATRICULA, FECHA_INICIO) VALUES('%s', '%s', '%s')", avion.getMarca(), avion.getMatricula(), avion.getFechaEnString() );
 
         try{
             Statement statement = connection.createStatement();
@@ -48,7 +48,9 @@ public class AvionDaoH2 implements IDao<Avion> {
             Statement statement = connection.createStatement();
             ResultSet resultSet = statement.executeQuery(query);
             if (resultSet.next()){
-                Avion avion = new Avion(resultSet.getString("MARCA"), resultSet.getString("MATRICULA"), resultSet.getDate("FECHA_INICIO"));
+                Avion avion;
+                avion = new Avion(resultSet.getString("MARCA"), resultSet.getString("MATRICULA"),
+                        resultSet.getDate("FECHA_INICIO"));
                 avion.setId(resultSet.getInt("ID"));
                 return avion;
             }
